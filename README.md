@@ -1,4 +1,4 @@
-The models and the labels for the dataset have been released.
+The dataset and models have been released.
 
 
 Download
